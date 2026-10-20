@@ -38,6 +38,7 @@ docs/
   lessons/
     lesson-01-aqsam-al-waratha.md
     lesson-02-ahwal-al-ab.md
+    lesson-03-ahwal-al-jadd.md
 src/
   domain/
   rules/
@@ -47,7 +48,7 @@ src/
 tests/
 ```
 
-ساخت کی تفصیل کے لیے [فنِ تعمیر کی دستاویز](docs/ARCHITECTURE.md)، [ماخذ رجسٹر](docs/source-register.md)، [ابتدائی نسخہ نقشہ](docs/edition-map.md)، [پہلے سبق کا تقابل](docs/lessons/lesson-01-aqsam-al-waratha.md)، [دوسرے سبق کا محدود جائزہ](docs/lessons/lesson-02-ahwal-al-ab.md)، اور [PDF جائزہ طریقۂ کار](docs/pdf-review-protocol.md) دیکھیں۔
+ساخت کی تفصیل کے لیے [فنِ تعمیر کی دستاویز](docs/ARCHITECTURE.md)، [ماخذ رجسٹر](docs/source-register.md)، [ابتدائی نسخہ نقشہ](docs/edition-map.md)، [پہلے سبق کا تقابل](docs/lessons/lesson-01-aqsam-al-waratha.md)، [دوسرے سبق کا محدود جائزہ](docs/lessons/lesson-02-ahwal-al-ab.md)، [تیسرے سبق کا ابتدائی جائزہ](docs/lessons/lesson-03-ahwal-al-jadd.md)، اور [PDF جائزہ طریقۂ کار](docs/pdf-review-protocol.md) دیکھیں۔
 
 ## موجودہ پیش رفت
 
@@ -58,6 +59,7 @@ tests/
 - [x] دوسرے سبق `احوال الأب` کے عنوان، تین حالتوں اور چار صورتوں کا محدود تقابل درج۔
 - [x] صارف کی تصحیح کے مطابق آسان نسخے میں سبق ۲ `احوال الأب` کا مقام PDF صفحہ 3 کے نچلے نصف حصے میں درج۔
 - [x] سبق ۲ کے آخر کے `فائدہ` کا دونوں نسخوں میں الگ صفحہ حوالوں کے ساتھ محدود تقابل درج۔
+- [x] سبق ۳ `احوال الجد` کا عنوان دونوں نسخوں میں الگ صفحہ حوالوں کے ساتھ درج؛ ابتدائی تعریف میں لفظ `اُم` کی صارف سے تصدیق درج۔
 - [ ] باقی اسباق، صفحات اور قواعد کی اصل متن سے تصدیق۔
 - [ ] کوئی میراثی حسابی قاعدہ ابھی نافذ نہیں کیا گیا۔
 
