@@ -1,0 +1,59 @@
+{
+  "lesson_number": 2,
+  "title_ar": "أحوال الأب",
+  "title_ur": "احوال الأب",
+  "status": "user_confirmed_summary",
+  "summary": {
+    "fathers_inheritance_states": [
+      {
+        "term_ar": "سدس فقط",
+        "meaning_ur": "صرف چھٹا حصہ"
+      },
+      {
+        "term_ar": "عصبة محضة",
+        "meaning_ur": "عصبہ محض"
+      },
+      {
+        "term_ar": "سدس مع العصبة",
+        "meaning_ur": "چھٹا حصہ اور عصبہ ہونے کی حیثیت سے حصہ"
+      }
+    ],
+    "cases": [
+      {
+        "condition_ur": "میت کی کوئی اولاد نہ ہو",
+        "ruling_ur": "والد عصبہ محض ہوگا"
+      },
+      {
+        "condition_ur": "اولاد میں صرف مذکر ہو",
+        "ruling_ur": "والد کو سدس فقط ملے گا"
+      },
+      {
+        "condition_ur": "اولاد میں مذکر اور مؤنث دونوں ہوں",
+        "ruling_ur": "والد کو سدس فقط ملے گا"
+      },
+      {
+        "condition_ur": "اولاد میں صرف مؤنث ہو",
+        "ruling_ur": "والد کو سدس ملے گا اور وہ عصبہ بھی ہوگا"
+      }
+    ],
+    "benefit_definition_of_children": {
+      "direct_descendants": [
+        "ابن",
+        "بنت"
+      ],
+      "descendants_through_intermediate_generation": [
+        "ابن الابن",
+        "بنت الابن"
+      ],
+      "exclusion_note_ur": "اس اصطلاحی مفہوم میں اولاد البنات خارج ہیں، کیونکہ وہ ذوی الارحام میں داخل ہوتے ہیں۔"
+    }
+  },
+  "confirmation": {
+    "summary_confirmed_by_user": true,
+    "user_note": "صارف نے خلاصے کی مکمل صحت کی تصدیق کی۔"
+  },
+  "source_lock": {
+    "calculation_rules_enabled": false,
+    "note": "یہ سبق کا تصدیق شدہ خلاصہ ہے؛ اس JSON سے کوئی حسابی قاعدہ خودکار طور پر انجن میں فعال نہیں کیا گیا۔"
+  }
+}
