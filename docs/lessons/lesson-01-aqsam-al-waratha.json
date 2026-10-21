@@ -1,0 +1,75 @@
+{
+  "lesson_number": 1,
+  "title_ar": "أقسام الورثة",
+  "title_ur": "اقسام الورثہ",
+  "status": "user_confirmed_summary",
+  "summary": {
+    "heir_categories": [
+      {
+        "term_ar": "ذوو الفروض",
+        "term_ur": "ذوی الفروض"
+      },
+      {
+        "term_ar": "العصبات",
+        "term_ur": "عصبات"
+      },
+      {
+        "term_ar": "ذوو الأرحام",
+        "term_ur": "ذوی الارحام"
+      }
+    ],
+    "dhawu_al_furud_definition_ur": "ذوی الفروض وہ ورثہ ہیں جن کے حصے شریعت میں مقرر ہوں۔",
+    "prescribed_shares": [
+      {
+        "term_ar": "النصف",
+        "term_ur": "نصف"
+      },
+      {
+        "term_ar": "الربع",
+        "term_ur": "ربع"
+      },
+      {
+        "term_ar": "الثمن",
+        "term_ur": "ثمن"
+      },
+      {
+        "term_ar": "الثلثان",
+        "term_ur": "ثلثان"
+      },
+      {
+        "term_ar": "الثلث",
+        "term_ur": "ثلث"
+      },
+      {
+        "term_ar": "السدس",
+        "term_ur": "سدس"
+      }
+    ],
+    "dhawu_al_furud_count": 12,
+    "men_count": 4,
+    "women_count": 8,
+    "dhawu_al_furud_names_in_order": [
+      "أب",
+      "جدّ صحیح",
+      "اخِ خیفی",
+      "اختِ خیفی",
+      "زوج",
+      "زوجہ",
+      "بنت",
+      "بنت الابن",
+      "اختِ عینی",
+      "اختِ علّی",
+      "ام",
+      "جدۂ صحیحہ"
+    ]
+  },
+  "confirmation": {
+    "summary_sufficient": true,
+    "names_and_order_confirmed_by_user": true,
+    "user_notes": "صارف نے تصدیق کی کہ یہی نکات کافی ہیں اور ناموں کی یہی املا و ترتیب درست ہے۔"
+  },
+  "source_lock": {
+    "calculation_rules_enabled": false,
+    "note": "یہ سبق تعارفی درجہ بندی اور حصصِ متعینہ کے ناموں تک محدود ہے؛ اس JSON سے کوئی حسابی قاعدہ فعال نہیں کیا گیا۔"
+  }
+}
