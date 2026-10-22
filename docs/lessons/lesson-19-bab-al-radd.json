@@ -1,0 +1,75 @@
+{
+  "lesson_number": 19,
+  "title_ar": "باب الرد",
+  "title_ur": "باب الرَّدّ",
+  "source": {
+    "edition": "البشریٰ",
+    "printed_pages": [
+      17,
+      18
+    ],
+    "pdf_pages": [
+      18,
+      19
+    ],
+    "note": "یہ ماخذی خلاصہ ہے، حرف بہ حرف نقل نہیں۔ عددی مثالوں کی مکمل تصدیق باقی ہے۔"
+  },
+  "distribution_cases": [
+    {
+      "case_number": 1,
+      "heirs_gender": "متحد الجنس",
+      "spouse_present": false,
+      "summary": "زوجین میں سے کسی کے بغیر متحد الجنس ورثہ کی صورت۔",
+      "algorithm_status": "details_pending_source_examples"
+    },
+    {
+      "case_number": 2,
+      "heirs_gender": "مختلف الجنس",
+      "spouse_present": false,
+      "summary": "زوجین میں سے کسی کے بغیر مختلف الجنس ورثہ کی صورت۔",
+      "algorithm_status": "details_pending_source_examples"
+    },
+    {
+      "case_number": 3,
+      "heirs_gender": "متحد الجنس",
+      "spouse_present": true,
+      "summary": "زوج یا زوجہ کی موجودگی میں متحد الجنس دوسرے ورثہ کی صورت۔",
+      "algorithm_status": "details_pending_source_examples"
+    },
+    {
+      "case_number": 4,
+      "heirs_gender": "مختلف الجنس",
+      "spouse_present": true,
+      "summary": "زوج یا زوجہ کی موجودگی میں مختلف الجنس ورثہ کی صورت؛ اصلِ مسئلہ اور باقی مال کی تقسیم کے مراحل کی عددی تصدیق باقی ہے۔",
+      "algorithm_status": "details_pending_source_examples"
+    }
+  ],
+  "ratios": [
+    {
+      "name": "تماثل",
+      "definition_status": "source_examples_pending"
+    },
+    {
+      "name": "تداخل",
+      "definition_status": "source_examples_pending"
+    },
+    {
+      "name": "توافق",
+      "definition_status": "source_examples_pending"
+    },
+    {
+      "name": "تباین",
+      "definition_status": "source_examples_pending"
+    }
+  ],
+  "implementation": {
+    "calculation_rules_activated": false,
+    "pending": [
+      "چاروں صورتوں کی اصل عددی مثالیں نقل اور جانچنا۔",
+      "زوجین کی موجودگی میں مقررہ حصہ اور باقی مال کی تقسیم کے مراحل verify کرنا۔",
+      "تماثل، تداخل، توافق اور تباین کی کتابی مثالوں کو الگ الگ درج کرنا۔",
+      "ردّ کے نتائج کو عَول اور فیصد میں تبدیلی سے الگ رکھنا۔"
+    ]
+  },
+  "status": "user_approved_provisional_summary"
+}
