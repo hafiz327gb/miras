@@ -1,0 +1,95 @@
+{
+  "lesson_number": 17,
+  "title_ur": "مسئلہ بنانے کے طریقے",
+  "source": {
+    "edition": "البشریٰ",
+    "printed_pages": [
+      16,
+      17
+    ],
+    "pdf_pages": [
+      17,
+      18
+    ],
+    "note": "یہ ماخذی خلاصہ ہے؛ حرف بہ حرف نقل نہیں۔"
+  },
+  "prescribed_share_denominators": [
+    {
+      "share": "نصف",
+      "denominator": 2
+    },
+    {
+      "share": "ربع",
+      "denominator": 4
+    },
+    {
+      "share": "ثمن",
+      "denominator": 8
+    },
+    {
+      "share": "ثلثان",
+      "denominator": 3
+    },
+    {
+      "share": "ثلث",
+      "denominator": 3
+    },
+    {
+      "share": "سدس",
+      "denominator": 6
+    }
+  ],
+  "method_details": {
+    "status": "user_explained_details_recorded_source_verification_pending",
+    "independent_methods": [
+      {
+        "method_number": 1,
+        "name": "حصے کو افراد کی تعداد پر تقسیم، پھر عددِ مضروب سے ضرب",
+        "steps": [
+          "ہر گروہ کا تصحیح سے پہلے والا حصہ لیں۔",
+          "اس حصے کو متعلقہ گروہ کے افراد کی تعداد پر تقسیم کریں۔",
+          "حاصل کو عددِ مضروب سے ضرب دیں۔"
+        ],
+        "verification_status": "user_provided_description; source examples not yet verified"
+      },
+      {
+        "method_number": 2,
+        "name": "عددِ مضروب کو افراد کی تعداد پر تقسیم، پھر گروہ کے حصے سے ضرب",
+        "steps": [
+          "عددِ مضروب کو متعلقہ گروہ کے افراد کی تعداد پر تقسیم کریں۔",
+          "حاصل کو اس گروہ کے تصحیح سے پہلے والے حصے سے ضرب دیں۔"
+        ],
+        "verification_status": "user_provided_description; source examples not yet verified"
+      },
+      {
+        "method_number": 3,
+        "name": "نسبت کے ذریعے ہر فرد کا حصہ معلوم کرنا",
+        "steps": [
+          "افراد کی تعداد اور گروہ کے تصحیح سے پہلے والے حصے کے درمیان نسبت قائم کریں۔",
+          "اس نسبت کی مدد سے عددِ مضروب میں سے ہر فرد کا متناسب حصہ معلوم کریں۔"
+        ],
+        "verification_status": "user_provided_description; source examples not yet verified"
+      }
+    ],
+    "fourth_method": {
+      "is_independent_solution_method": false,
+      "purpose": "حل شدہ حصص کو ضرورت کے وقت فیصد کی صورت میں ظاہر کرنا",
+      "use": "پہلے تین مستقل طریقوں میں سے کسی ایک سے مسئلہ حل کرنے کے بعد اختیاری ذیلی مرحلے کے طور پر",
+      "must_not_replace_primary_solution": true,
+      "verification_status": "meaning clarified by user; detailed source examples pending"
+    }
+  },
+  "multiple_share_denominators": {
+    "summary": "متعدد حصص کی صورت میں مخرجوں اور ان کے باہمی تعلق کو دیکھ کر اصلِ مسئلہ مقرر کیا جاتا ہے۔",
+    "status": "full algorithm and source examples pending verification"
+  },
+  "unresolved_source_reading": {
+    "phrase": "سدس علی التضعیف والتصنیف",
+    "handling": "قرأت واضح ہونے تک اسے کسی حسابی قاعدے کی بنیاد نہ بنایا جائے۔"
+  },
+  "implementation": {
+    "calculation_rules_activated": false,
+    "reason": "مخرجوں کے باہمی تعلق، عددِ مسئلہ، اور طریقوں کی اصل مثالوں کی ماخذی تصدیق ابھی باقی ہے۔"
+  },
+  "status": "user_approved_provisional_summary"
+}
