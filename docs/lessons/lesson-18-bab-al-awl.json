@@ -1,0 +1,61 @@
+{
+  "lesson_number": 18,
+  "title_ar": "باب العول",
+  "title_ur": "باب العَول",
+  "source": {
+    "edition": "البشریٰ",
+    "printed_page": 17,
+    "pdf_page": 18,
+    "note": "یہ ماخذی خلاصہ ہے، حرف بہ حرف نقل نہیں۔ مکمل مثالوں اور قیود کی تصدیق باقی ہے۔"
+  },
+  "problem_states": [
+    {
+      "name": "صورتِ عادلہ",
+      "definition": "حصص کا مجموعہ اصلِ مسئلہ کے برابر ہو۔"
+    },
+    {
+      "name": "صورتِ ناقصہ",
+      "definition": "حصص کا مجموعہ اصلِ مسئلہ سے کم ہو۔"
+    },
+    {
+      "name": "صورتِ عائلہ",
+      "definition": "حصص کا مجموعہ اصلِ مسئلہ سے زیادہ ہو؛ اسے عَول کہتے ہیں۔"
+    }
+  ],
+  "awl_principle": {
+    "summary": "جب مقررہ حصص کا مجموعہ اصلِ مسئلہ سے بڑھ جائے تو اصلِ مسئلہ کو بڑھایا جاتا ہے تاکہ حصص باہمی تناسب کے مطابق ادا ہوں۔",
+    "calculation_rules_activated": false,
+    "verification_status": "basic_summary_only"
+  },
+  "source_reported_limits": [
+    {
+      "original_issue": 6,
+      "possible_awl_totals": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "original_issue": 12,
+      "possible_awl_totals": [
+        13,
+        15,
+        17
+      ]
+    },
+    {
+      "original_issue": 24,
+      "possible_awl_totals": [
+        27
+      ]
+    }
+  ],
+  "pending_verification": [
+    "کتاب میں مذکور ہر عددی مثال کو اصلِ مسئلہ، وارثوں کے حصص، مجموعۂ سہام اور عَول کے بعد کے اصل کے ساتھ درج کرنا۔",
+    "عَول کی مذکورہ حدود کی مکمل عبارت اور تمام قیود کی تصدیق کرنا۔",
+    "ہر مثال کو دستی طور پر جانچنے کے بعد الگ خودکار ٹیسٹ بنانا۔"
+  ],
+  "status": "user_approved_provisional_summary"
+}
