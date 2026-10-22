@@ -1,0 +1,47 @@
+{
+  "lesson_number": 20,
+  "title_ar": "النسبة بين العددين",
+  "title_ur": "دو عددوں میں نسبتوں کا بیان",
+  "source": {
+    "edition": "البشریٰ",
+    "printed_page": 18,
+    "pdf_page": 19,
+    "note": "یہ ماخذی خلاصہ ہے؛ کتاب کی عددی مثالوں کی مکمل نقل اور تصدیق ابھی باقی ہے۔"
+  },
+  "ratios": [
+    {
+      "name": "تماثل",
+      "definition": "دونوں عدد برابر ہوں۔",
+      "examples": [],
+      "verification_status": "definition_summary_only_examples_pending"
+    },
+    {
+      "name": "تداخل",
+      "definition": "ایک عدد دوسرے عدد میں پورا تقسیم ہو جائے۔",
+      "examples": [],
+      "verification_status": "definition_summary_only_examples_pending"
+    },
+    {
+      "name": "توافق",
+      "definition": "دونوں عددوں میں ایک سے بڑا مشترک عامل ہو، لیکن دونوں برابر نہ ہوں اور نہ ہی ایک دوسرے میں پورے تقسیم ہوں۔",
+      "examples": [],
+      "verification_status": "definition_summary_only_examples_pending"
+    },
+    {
+      "name": "تباین",
+      "definition": "دونوں عددوں میں ایک کے علاوہ کوئی مشترک عامل نہ ہو۔",
+      "examples": [],
+      "verification_status": "definition_summary_only_examples_pending"
+    }
+  ],
+  "implementation": {
+    "calculation_rules_activated": false,
+    "note": "ان نسبتوں کو اصلِ مسئلہ، عَول، ردّ یا تصحیح میں نافذ کرنے سے پہلے متعلقہ اسباق کی ترتیب اور کتابی مثالوں کی تصدیق ضروری ہے۔"
+  },
+  "pending_verification": [
+    "مطبوعہ صفحہ 18 / PDF صفحہ 19 پر درج مثالوں کو مکمل عددی صورت میں نقل کرنا۔",
+    "ہر مثال میں نسبت کی قسم کا ہاتھ سے تعین کرکے ماخذ سے مقابلہ کرنا۔",
+    "تصدیق شدہ مثالوں سے الگ الگ ٹیسٹ کیسز بنانا۔"
+  ],
+  "status": "user_approved_provisional_summary"
+}
