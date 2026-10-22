@@ -1,0 +1,43 @@
+{
+  "lesson_number": 11,
+  "title_ar": "أحوال الجدة الصحيحة",
+  "title_ur": "جدہ صحیحہ کے احوال",
+  "source": {
+    "primary_edition": "البشریٰ",
+    "printed_page": 11,
+    "pdf_page": 12,
+    "source_file": "docs/lessons/lesson-11-ahwal-al-jaddah-al-sahiha.md"
+  },
+  "summary": {
+    "grandmother_types": [
+      {
+        "term": "جدہ صحیحہ",
+        "definition": "وہ جدہ جس کے نسب میں جد فاسد کا واسطہ نہ آئے۔",
+        "examples": [
+          "ام الأب",
+          "ام الأم"
+        ]
+      },
+      {
+        "term": "جدہ فاسدہ",
+        "definition": "وہ جدہ جس کے نسب میں جد فاسد کا واسطہ آئے۔"
+      }
+    ],
+    "states_of_correct_grandmother": [
+      "سدس",
+      "محجوب"
+    ],
+    "conditions": "جدہ صحیحہ ایک ہو یا متعدد، امویہ ہو یا ابویہ، اسے سدس مل سکتا ہے، بشرطیکہ حجب کی کوئی وجہ موجود نہ ہو۔",
+    "blocking_causes_as_listed_in_source": [
+      "وجودِ اُم",
+      "وجودِ واسطہ",
+      "وجودِ قربی"
+    ]
+  },
+  "notes": [
+    "البشریٰ کی سبق نمبر اور ترتیب کو بنیادی ریکارڈ میں برقرار رکھا جائے گا۔",
+    "حجب کی وجوہ کی عملی تطبیق مزید وضاحت کے بغیر حتمی حسابی قاعدہ نہیں بنائی جائے گی۔"
+  ],
+  "status": "user_confirmed_summary",
+  "calculation_rules_activated": false
+}
