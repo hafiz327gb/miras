@@ -1,0 +1,104 @@
+{
+  "lesson_number": 24,
+  "title_ur": "دَینِ محیط کا بیان",
+  "source": {
+    "primary_edition": "البشریٰ",
+    "printed_pages": [
+      20,
+      21
+    ],
+    "pdf_pages": [
+      21,
+      22
+    ],
+    "comparison_edition": "سادہ نسخہ",
+    "comparison_pdf_pages": [
+      15,
+      16
+    ],
+    "source_text_status": "خلاصہ منظور شدہ؛ لفظ بہ لفظ تقابل اور وفقوں کی جزئی ترتیب کی مزید تصدیق باقی"
+  },
+  "definitions": {
+    "estate_insufficient_for_debts": "جب میت کا ترکہ قرضوں کی مکمل ادائیگی کے لیے کافی نہ ہو تو اسے ترکہ قاصرہ کہا گیا ہے۔",
+    "encompassing_debt": "اس صورت کے قرض کو دَینِ محیط کہا گیا ہے۔",
+    "distribution_principle": "دستیاب ترکہ قرض خواہوں میں ان کے قرضوں کے تناسب سے تقسیم کیا جائے۔"
+  },
+  "analogy_in_source": {
+    "creditors": "ورثاء کے قائم مقام",
+    "debts": "سہام کے قائم مقام",
+    "total_debts": "اصل مسئلہ کے قائم مقام",
+    "insufficient_estate": "مال متروک کے قائم مقام"
+  },
+  "ratio_cases": [
+    {
+      "name": "توافق",
+      "description_ur": "ترکہ قاصرہ اور مجموعۂ دیون میں مشترک عامل ہو، مگر کوئی عدد دوسرے میں پورا داخل نہ ہو۔",
+      "source_verification": "وفقوں کی عملی ترتیب کا لفظ بہ لفظ آڈٹ باقی"
+    },
+    {
+      "name": "تباین",
+      "description_ur": "دونوں اعداد میں 1 کے سوا کوئی مشترک عامل نہ ہو۔",
+      "source_verification": "اصل عبارت کی جزئیات کی مزید تصدیق باقی"
+    },
+    {
+      "name": "تداخل",
+      "description_ur": "ایک عدد دوسرے میں پورا داخل ہو۔",
+      "source_verification": "وفقوں کی عملی ترتیب اور استثنا کی مزید تصدیق باقی"
+    }
+  ],
+  "user_confirmed_practical_examples": [
+    {
+      "ratio_case": "تباین",
+      "estate": 60,
+      "debts": [
+        30,
+        60
+      ],
+      "total_debts": 90,
+      "allocation": [
+        20,
+        40
+      ],
+      "status": "صارف کی تصدیق شدہ عملی مثال؛ کتابی مثال نہیں"
+    },
+    {
+      "ratio_case": "توافق",
+      "estate": 60,
+      "debts": [
+        40,
+        60
+      ],
+      "total_debts": 100,
+      "allocation": [
+        24,
+        36
+      ],
+      "status": "صارف کی تصدیق شدہ عملی مثال؛ کتابی مثال نہیں"
+    },
+    {
+      "ratio_case": "تداخل",
+      "estate": 40,
+      "debts": [
+        20,
+        60
+      ],
+      "total_debts": 80,
+      "allocation": [
+        10,
+        30
+      ],
+      "status": "صارف کی تصدیق شدہ عملی مثال؛ کتابی مثال نہیں"
+    }
+  ],
+  "implementation_status": {
+    "calculation_rules_activated": false,
+    "automatic_tests_added": false,
+    "status": "PARTIALLY_REVIEWED",
+    "reason": "اصل عبارت کا مکمل لفظی تقابل اور وفقوں کے طریقے کی مزید تصدیق باقی ہے۔"
+  },
+  "notes": [
+    "یہ خلاصہ صارف نے منظور کیا ہے۔",
+    "عددی ٹیسٹ صارف کی ہدایت کے مطابق مؤخر ہیں۔",
+    "صارف کی عملی مثالوں کو کتابی مثالیں قرار نہیں دیا جائے گا۔"
+  ]
+}
