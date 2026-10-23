@@ -1,0 +1,20 @@
+{
+  "lesson_number": 40,
+  "title": "فصل: مات الوارثان معاً",
+  "status": "USER_APPROVED_SUMMARY",
+  "user_approved_summary": true,
+  "source_policy": "Summary based on the user's supplied image and explicit instruction; no PDFs opened or consulted.",
+  "calculation_policy": {
+    "default": "MUFTA_BIH_QAWL",
+    "default_rule_urdu": "جب دو ایسے وارثوں کی موت کا وقت معلوم نہ ہو جو ایک دوسرے کے وارث بن سکتے ہوں، تو باہمی وراثت ثابت نہیں کی جائے گی؛ ہر ایک کا ترکہ اس کے اپنے ثابت شدہ زندہ وارثوں میں تقسیم ہوگا۔",
+    "alternative_view_urdu": "حضرت علیؓ اور حضرت عبداللہ بن مسعودؓ سے منقول دوسرے قول کے مطابق دونوں کو باری باری زندہ فرض کرکے ایک کی طرف سے دوسرے کی وراثت کا حساب کیا جاتا ہے، پھر دوسری طرف سے بھی اسی طرح حساب کیا جاتا ہے۔",
+    "show_alternative_in_details": true
+  },
+  "calculator_notes": [
+    "خودکار حساب میں مفتیٰ بہ قول کو بطورِ پیش فرض استعمال کیا جائے۔",
+    "تفصیل میں دوسرے قول اور اس کے حسابی طریقے کا ذکر الگ سے کیا جائے۔",
+    "دوسرے قول کو پیش فرض حساب میں شامل نہ کیا جائے، جب تک صارف الگ سے اس کا انتخاب نہ کرے۔"
+  ],
+  "rules_activated": false,
+  "numerical_tests": "DEFERRED"
+}
